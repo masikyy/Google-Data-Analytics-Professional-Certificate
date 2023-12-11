@@ -1,0 +1,11 @@
+"use strict";this.default_r_tvffkgi=this.default_r_tvffkgi||{};(function(_){var window=this;
+try{
+_.sh("pm_page_not_found_view");
+var ABd=class{constructor(){this.projectListUrl=_.ZVc.create().link().asString()}};ABd.\u0275fac=function(a){return new (a||ABd)};
+ABd.\u0275cmp=_.n({type:ABd,selectors:[["page-not-found"]],hostAttrs:[1,"cfc-flex-layout-column"],decls:14,vars:1,consts:function(){return[[1,"cfc-space-first"]," URL not found "," We couldn't find what you were looking for. Try one of the links below. ",["cfc-list",""],["cfcTrackedLink","","track-type","errorAction","track-name","toConsole",3,"cfcRouterLink"]," Google Cloud Console Home ","cfc-external-link;http://cloud.google.com;cfcTrackedLink;;track-type;errorAction;track-name;toMarketing;linkText;Google Cloud Platform".split(";"),
+"cfc-external-link;http://developers.google.com;cfcTrackedLink;;track-type;errorAction;track-name;toDeveloperDocs;linkText;Google Developers".split(";")]},template:function(a,b){a&1&&(_.H(0,"cfc-single-panel-layout")(1,"cfc-panel-body")(2,"h2",0),_.M(3,1),_.I(),_.H(4,"p"),_.M(5,2),_.I(),_.H(6,"ul",3)(7,"li")(8,"a",4),_.M(9,5),_.I()(),_.H(10,"li"),_.J(11,"a",6),_.I(),_.H(12,"li"),_.J(13,"a",7),_.I()()()());a&2&&(_.z(8),_.E("cfcRouterLink",b.projectListUrl))},dependencies:[_.DK,_.rN,_.jx,_.Gy,_.WJ,
+_.ys],encapsulation:2});var BBd=class{};BBd.\u0275fac=function(a){return new (a||BBd)};BBd.\u0275mod=_.r({type:BBd});BBd.\u0275inj=_.k({imports:[_.CK,_.sN,_.kx,_.Iy,_.XJ]});var CBd=class{};CBd.\u0275fac=function(a){return new (a||CBd)};CBd.\u0275mod=_.r({type:CBd,id:"pm_page_not_found_view"});CBd.\u0275inj=_.k({imports:[_.Rs([{path:"",component:ABd}]),BBd]});_.Vf(CBd,"pm_page_not_found_view");
+_.th();
+}catch(e){_._DumpException(e)}
+}).call(this,this.default_r_tvffkgi);
+// Google Inc.
